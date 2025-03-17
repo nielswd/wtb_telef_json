@@ -8,7 +8,7 @@
                     "Live",
                     "Players"
                 ],
-                "performance": true,
+                "performance": false,
                 "reboot": true,
                 "stability": false,
                 "stability_list": [
