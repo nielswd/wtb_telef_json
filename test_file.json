@@ -1,29 +1,644 @@
-{"iptv":{"list":[{"stb_name":"STB1","reboot":true,"auto_update":false,"stress_list":["TVAPPS","Amazon","EPG"],"stress":true,"stability":false,"stability_list":["Amazon","Live 3 Days"],"performance":true,"functional":false,"functional_list":["Live","Players"]},
-{"stb_name":"STB2","reboot":true,"auto_update":false,"stress_list":["Coreography","Netflix","EPG"],"stress":true,"stability":false,"stability_list":["Netflix","VOD"],"performance":false,"functional":true,"functional_list":["Navigation","Players"]},
-{"stb_name":"STB3","reboot":true,"auto_update":false,"stress_list":["Deeplinking","Coreography","Amazon"],"stress":false,"stability":false,"stability_list":["Disney","Netflix"],"performance":false,"functional":false,"functional_list":["TVAPPS","Live"]},
-{"stb_name":"STB4","reboot":true,"auto_update":false,"stress_list":["Menu","EPG","Disney"],"stress":false,"stability":true,"stability_list":["L7D","VOD"],"performance":true,"functional":true,"functional_list":["Live","Players"]},
-{"stb_name":"STB5","reboot":true,"auto_update":false,"stress_list":["EPG","Youtube","Navigation"],"stress":false,"stability":true,"stability_list":["L7D","Disney"],"performance":false,"functional":true,"functional_list":["Navigation","Live"]},
-{"stb_name":"STB6","reboot":true,"auto_update":false,"stress_list":["Menu","Disney","Navigation"],"stress":true,"stability":false,"stability_list":["Amazon","Disney"],"performance":true,"functional":true,"functional_list":["Live","Navigation"]},
-{"stb_name":"STB7","reboot":true,"auto_update":false,"stress_list":["EPG","Disney","Netflix"],"stress":false,"stability":true,"stability_list":["Live 3 Days","L7D"],"performance":false,"functional":true,"functional_list":["Live","Navigation"]},
-{"stb_name":"STB8","reboot":true,"auto_update":false,"stress_list":["Netflix","Youtube","Coreography"],"stress":true,"stability":true,"stability_list":["Live 3 Days","VOD"],"performance":false,"functional":true,"functional_list":["Navigation","Live"]},
-{"stb_name":"STB9","reboot":true,"auto_update":false,"stress_list":["Disney","Deeplinking","Netflix"],"stress":true,"stability":true,"stability_list":["VOD","Netflix"],"performance":true,"functional":false,"functional_list":["Live","Navigation"]},
-{"stb_name":"STB10","reboot":true,"auto_update":false,"stress_list":["TVAPPS","Netflix","Menu"],"stress":false,"stability":true,"stability_list":["Disney","Amazon"],"performance":false,"functional":false,"functional_list":["Live","Players"]},
-{"stb_name":"STB11","reboot":true,"auto_update":false,"stress_list":["Youtube","Menu","Coreography"],"stress":true,"stability":false,"stability_list":["Amazon","Disney"],"performance":true,"functional":true,"functional_list":["Live","TVAPPS"]},
-{"stb_name":"STB12","reboot":true,"auto_update":false,"stress_list":["Deeplinking","Disney","TVAPPS"],"stress":false,"stability":true,"stability_list":["Live 3 Days","Disney"],"performance":true,"functional":false,"functional_list":["TVAPPS","Players"]},
-{"stb_name":"STB13","reboot":true,"auto_update":false,"stress_list":["Navigation","Deeplinking","Amazon"],"stress":true,"stability":false,"stability_list":["Live 3 Days","Amazon"],"performance":true,"functional":false,"functional_list":["TVAPPS","Live"]},
-{"stb_name":"STB14","reboot":true,"auto_update":false,"stress_list":["EPG","Menu","Deeplinking"],"stress":true,"stability":true,"stability_list":["Netflix","VOD"],"performance":false,"functional":true,"functional_list":["Live","TVAPPS"]},
-{"stb_name":"STB15","reboot":true,"auto_update":false,"stress_list":["Youtube","Disney","Navigation"],"stress":true,"stability":false,"stability_list":["Live 3 Days","Disney"],"performance":false,"functional":true,"functional_list":["TVAPPS","Live"]},
-{"stb_name":"STB16","reboot":true,"auto_update":false,"stress_list":["Amazon","Disney","EPG"],"stress":false,"stability":true,"stability_list":["L7D","Disney"],"performance":true,"functional":true,"functional_list":["Navigation","TVAPPS"]},
-{"stb_name":"STB17","reboot":true,"auto_update":false,"stress_list":["Disney","TVAPPS","Coreography"],"stress":true,"stability":false,"stability_list":["Netflix","VOD"],"performance":false,"functional":true,"functional_list":["TVAPPS","Live"]},
-{"stb_name":"STB18","reboot":true,"auto_update":false,"stress_list":["Amazon","Deeplinking","Menu"],"stress":false,"stability":true,"stability_list":["L7D","Amazon"],"performance":false,"functional":false,"functional_list":["Navigation","Live"]},
-{"stb_name":"STB19","reboot":true,"auto_update":false,"stress_list":["Disney","Menu","Coreography"],"stress":false,"stability":true,"stability_list":["Live 3 Days","L7D"],"performance":false,"functional":true,"functional_list":["Live","Navigation"]},
-{"stb_name":"STB20","reboot":true,"auto_update":false,"stress_list":["TVAPPS","Netflix","Amazon"],"stress":false,"stability":true,"stability_list":["Disney","VOD"],"performance":true,"functional":true,"functional_list":["Navigation","Live"]},
-{"stb_name":"STB21","reboot":true,"auto_update":false,"stress_list":["Youtube","Netflix","TVAPPS"],"stress":true,"stability":true,"stability_list":["VOD","L7D"],"performance":true,"functional":true,"functional_list":["TVAPPS","Players"]},
-{"stb_name":"STB22","reboot":true,"auto_update":false,"stress_list":["Navigation","TVAPPS","Menu"],"stress":true,"stability":true,"stability_list":["Netflix","Disney"],"performance":false,"functional":true,"functional_list":["TVAPPS","Navigation"]},
-{"stb_name":"STB23","reboot":true,"auto_update":false,"stress_list":["Coreography","Disney","Deeplinking"],"stress":true,"stability":true,"stability_list":["Live 3 Days","Disney"],"performance":true,"functional":false,"functional_list":["Players","TVAPPS"]},
-{"stb_name":"STB24","reboot":true,"auto_update":false,"stress_list":["Deeplinking","Coreography","Navigation"],"stress":false,"stability":true,"stability_list":["VOD","Netflix"],"performance":true,"functional":false,"functional_list":["Navigation","Players"]},
-{"stb_name":"STB25","reboot":true,"auto_update":false,"stress_list":["Menu","Amazon","TVAPPS"],"stress":false,"stability":true,"stability_list":["VOD","Netflix"],"performance":false,"functional":false,"functional_list":["Navigation","Live"]},
-{"stb_name":"STB26","reboot":true,"auto_update":false,"stress_list":["Amazon","Netflix","Youtube"],"stress":false,"stability":true,"stability_list":["L7D","Live 3 Days"],"performance":false,"functional":true,"functional_list":["Players","Navigation"]},
-{"stb_name":"STB27","reboot":true,"auto_update":false,"stress_list":["Deeplinking","TVAPPS","Navigation"],"stress":false,"stability":false,"stability_list":["VOD","Amazon"],"performance":true,"functional":true,"functional_list":["Players","Navigation"]},
-{"stb_name":"STB28","reboot":true,"auto_update":false,"stress_list":["EPG","Deeplinking","Disney"],"stress":false,"stability":false,"stability_list":["Live 3 Days","Netflix"],"performance":false,"functional":true,"functional_list":["Navigation","Players"]},
-{"stb_name":"STB29","reboot":true,"auto_update":false,"stress_list":["Navigation","Coreography","Amazon"],"stress":true,"stability":true,"stability_list":["L7D","Netflix"],"performance":false,"functional":false,"functional_list":["Navigation","TVAPPS"]}]}}
+{
+    "iptv": {
+        "list": [
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Live",
+                    "Players"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Amazon",
+                    "Live 3 Days"
+                ],
+                "stb_name": "STB1",
+                "stress": true,
+                "stress_list": [
+                    "TVAPPS",
+                    "Amazon",
+                    "EPG"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Navigation",
+                    "Players"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Netflix",
+                    "VOD"
+                ],
+                "stb_name": "STB2",
+                "stress": true,
+                "stress_list": [
+                    "Coreography",
+                    "Netflix",
+                    "EPG"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "TVAPPS",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Disney",
+                    "Netflix"
+                ],
+                "stb_name": "STB3",
+                "stress": false,
+                "stress_list": [
+                    "Deeplinking",
+                    "Coreography",
+                    "Amazon"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Live",
+                    "Players"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "L7D",
+                    "VOD"
+                ],
+                "stb_name": "STB4",
+                "stress": false,
+                "stress_list": [
+                    "Menu",
+                    "EPG",
+                    "Disney"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Navigation",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "L7D",
+                    "Disney"
+                ],
+                "stb_name": "STB5",
+                "stress": false,
+                "stress_list": [
+                    "EPG",
+                    "Youtube",
+                    "Navigation"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Live",
+                    "Navigation"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Amazon",
+                    "Disney"
+                ],
+                "stb_name": "STB6",
+                "stress": true,
+                "stress_list": [
+                    "Menu",
+                    "Disney",
+                    "Navigation"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Live",
+                    "Navigation"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Live 3 Days",
+                    "L7D"
+                ],
+                "stb_name": "STB7",
+                "stress": false,
+                "stress_list": [
+                    "EPG",
+                    "Disney",
+                    "Netflix"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Navigation",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Live 3 Days",
+                    "VOD"
+                ],
+                "stb_name": "STB8",
+                "stress": true,
+                "stress_list": [
+                    "Netflix",
+                    "Youtube",
+                    "Coreography"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Live",
+                    "Navigation"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "VOD",
+                    "Netflix"
+                ],
+                "stb_name": "STB9",
+                "stress": true,
+                "stress_list": [
+                    "Disney",
+                    "Deeplinking",
+                    "Netflix"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Live",
+                    "Players"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Disney",
+                    "Amazon"
+                ],
+                "stb_name": "STB10",
+                "stress": false,
+                "stress_list": [
+                    "TVAPPS",
+                    "Netflix",
+                    "Menu"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Live",
+                    "TVAPPS"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Amazon",
+                    "Disney"
+                ],
+                "stb_name": "STB11",
+                "stress": true,
+                "stress_list": [
+                    "Youtube",
+                    "Menu",
+                    "Coreography"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "TVAPPS",
+                    "Players"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Live 3 Days",
+                    "Disney"
+                ],
+                "stb_name": "STB12",
+                "stress": false,
+                "stress_list": [
+                    "Deeplinking",
+                    "Disney",
+                    "TVAPPS"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "TVAPPS",
+                    "Live"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Live 3 Days",
+                    "Amazon"
+                ],
+                "stb_name": "STB13",
+                "stress": true,
+                "stress_list": [
+                    "Navigation",
+                    "Deeplinking",
+                    "Amazon"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Live",
+                    "TVAPPS"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Netflix",
+                    "VOD"
+                ],
+                "stb_name": "STB14",
+                "stress": true,
+                "stress_list": [
+                    "EPG",
+                    "Menu",
+                    "Deeplinking"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "TVAPPS",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Live 3 Days",
+                    "Disney"
+                ],
+                "stb_name": "STB15",
+                "stress": true,
+                "stress_list": [
+                    "Youtube",
+                    "Disney",
+                    "Navigation"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Navigation",
+                    "TVAPPS"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "L7D",
+                    "Disney"
+                ],
+                "stb_name": "STB16",
+                "stress": false,
+                "stress_list": [
+                    "Amazon",
+                    "Disney",
+                    "EPG"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "TVAPPS",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Netflix",
+                    "VOD"
+                ],
+                "stb_name": "STB17",
+                "stress": true,
+                "stress_list": [
+                    "Disney",
+                    "TVAPPS",
+                    "Coreography"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Navigation",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "L7D",
+                    "Amazon"
+                ],
+                "stb_name": "STB18",
+                "stress": false,
+                "stress_list": [
+                    "Amazon",
+                    "Deeplinking",
+                    "Menu"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Live",
+                    "Navigation"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Live 3 Days",
+                    "L7D"
+                ],
+                "stb_name": "STB19",
+                "stress": false,
+                "stress_list": [
+                    "Disney",
+                    "Menu",
+                    "Coreography"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Navigation",
+                    "Live"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Disney",
+                    "VOD"
+                ],
+                "stb_name": "STB20",
+                "stress": false,
+                "stress_list": [
+                    "TVAPPS",
+                    "Netflix",
+                    "Amazon"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "TVAPPS",
+                    "Players"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "VOD",
+                    "L7D"
+                ],
+                "stb_name": "STB21",
+                "stress": true,
+                "stress_list": [
+                    "Youtube",
+                    "Netflix",
+                    "TVAPPS"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "TVAPPS",
+                    "Navigation"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Netflix",
+                    "Disney"
+                ],
+                "stb_name": "STB22",
+                "stress": true,
+                "stress_list": [
+                    "Navigation",
+                    "TVAPPS",
+                    "Menu"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Players",
+                    "TVAPPS"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "Live 3 Days",
+                    "Disney"
+                ],
+                "stb_name": "STB23",
+                "stress": true,
+                "stress_list": [
+                    "Coreography",
+                    "Disney",
+                    "Deeplinking"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Navigation",
+                    "Players"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "VOD",
+                    "Netflix"
+                ],
+                "stb_name": "STB24",
+                "stress": false,
+                "stress_list": [
+                    "Deeplinking",
+                    "Coreography",
+                    "Navigation"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Navigation",
+                    "Live"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "VOD",
+                    "Netflix"
+                ],
+                "stb_name": "STB25",
+                "stress": false,
+                "stress_list": [
+                    "Menu",
+                    "Amazon",
+                    "TVAPPS"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Players",
+                    "Navigation"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "L7D",
+                    "Live 3 Days"
+                ],
+                "stb_name": "STB26",
+                "stress": false,
+                "stress_list": [
+                    "Amazon",
+                    "Netflix",
+                    "Youtube"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Players",
+                    "Navigation"
+                ],
+                "performance": true,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "VOD",
+                    "Amazon"
+                ],
+                "stb_name": "STB27",
+                "stress": false,
+                "stress_list": [
+                    "Deeplinking",
+                    "TVAPPS",
+                    "Navigation"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": true,
+                "functional_list": [
+                    "Navigation",
+                    "Players"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": false,
+                "stability_list": [
+                    "Live 3 Days",
+                    "Netflix"
+                ],
+                "stb_name": "STB28",
+                "stress": false,
+                "stress_list": [
+                    "EPG",
+                    "Deeplinking",
+                    "Disney"
+                ]
+            },
+            {
+                "auto_update": false,
+                "functional": false,
+                "functional_list": [
+                    "Navigation",
+                    "TVAPPS"
+                ],
+                "performance": false,
+                "reboot": true,
+                "stability": true,
+                "stability_list": [
+                    "L7D",
+                    "Netflix"
+                ],
+                "stb_name": "STB29",
+                "stress": true,
+                "stress_list": [
+                    "Navigation",
+                    "Coreography",
+                    "Amazon"
+                ]
+            }
+        ]
+    }
+}
